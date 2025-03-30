@@ -401,7 +401,7 @@ def animated_header(text, color="#f01e2c"):
     <style>
     .animated-header {{
         text-align: center;
-        color: {color};
+        color: {color} !important;
         animation: fadeIn 4s ease-in-out;
     }}
     @keyframes fadeIn {{
