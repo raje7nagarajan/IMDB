@@ -1,4 +1,4 @@
-# IMDB
+# IMDB Movie Recommendation System
 
 This project focuses on scraping IMDb's 2024 Movies page to extract movie details and store the data in CSV and SQL formats. The data is scraped using Selenium, processed, and stored for future analysis. The extracted data includes movie names, genres, ratings, voting counts, and durations. The project also provides a mechanism to save the data in individual CSV files by genre and combine them into a single dataset for SQL storage.
 
