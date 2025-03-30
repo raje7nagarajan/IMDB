@@ -70,3 +70,5 @@ This code provides interactive visualizations and filtering options for IMDb mov
   * mysql-connector-python
   * matplotlib
   * seaborn
+
+**Note: Please ensure to save all the required files in a same folder to avoid any path related issues.**
